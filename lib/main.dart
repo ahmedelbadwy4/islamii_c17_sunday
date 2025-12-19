@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     initialRoute: HomeScreen.routeName,
     routes: {HomeScreen.routeName:(context)=>HomeScreen()},
     home:
-    Placeholder(color: Colors.black,),
+    Placeholder(color: Colors.black45,),
     );
   }
 }
